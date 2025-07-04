@@ -6,7 +6,9 @@ A modern, responsive React application showcasing advanced component architectur
 
 ## 🌟 Live Demo
 
-Visit the live application: [http://localhost:3000](http://localhost:3000) (after running `npm run dev`)
+🚀 **Live Application**: [https://task-manager-o1zqjo921-shunsuis-projects.vercel.app/](https://task-manager-o1zqjo921-shunsuis-projects.vercel.app/)
+
+*Local Development*: [http://localhost:3000](http://localhost:3000) (after running `npm run dev`)
 
 ## 📸 Screenshots
 
