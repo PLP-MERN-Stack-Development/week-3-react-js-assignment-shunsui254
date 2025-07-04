@@ -12,11 +12,83 @@ A modern, responsive React application showcasing advanced component architectur
 
 ## 📸 Screenshots
 
-![Task Manager Interface](https://via.placeholder.com/800x400/0ea5e9/ffffff?text=Task+Manager+Interface)
-*Task management with filtering and theme switching*
+### 💻 Desktop/Laptop Views
 
-![API Data Display](https://via.placeholder.com/800x400/10b981/ffffff?text=API+Data+Display)
-*Real-time API data with search and pagination*
+#### 🏠 Home Page & Hero Section (Dark Theme)
+![Task Manager Hero - Desktop Dark](./screenshots/1.png)
+*Welcome page with animated hero section and feature cards on desktop - Dark theme*
+
+#### 🏠 Home Page & Hero Section (Light Theme)
+![Task Manager Hero - Desktop Light](./screenshots/1_light.png)
+*Welcome page with animated hero section and feature cards on desktop - Light theme*
+
+#### 📋 Task Management Interface (Dark Theme)
+![Task Manager Interface - Desktop](./screenshots/2.png)
+*Task creation, editing, filtering, and progress tracking on desktop - Dark theme*
+
+#### 🌐 API Data Display (Dark Theme)
+![API Data Display - Desktop](./screenshots/3.png)
+*Real-time posts from JSONPlaceholder API with search and pagination on desktop - Dark theme*
+
+#### 🌙 Dark Mode Theme
+![Dark Mode - Desktop](./screenshots/4.png)
+*Application in dark mode showing theme consistency on desktop*
+
+### 📱 Mobile/Phone Views
+
+#### Mobile Screenshot 1 (Light Theme)
+![Mobile View 1 - Light](./screenshots/5_light.jpg)
+*Mobile responsive design - Light theme view*
+
+#### Mobile Screenshot 1 (Dark Theme)
+![Mobile View 1 - Dark](./screenshots/5.jpg)
+*Mobile responsive design - Dark theme view*
+
+#### Mobile Screenshot 2 (Dark Theme)
+![Mobile View 2](./screenshots/6.jpg)
+*Mobile responsive design - View 2 (Dark theme)*
+
+#### Mobile Screenshot 3 (Dark Theme)
+![Mobile View 3](./screenshots/7.jpg)
+*Mobile responsive design - View 3 (Dark theme)*
+
+#### Mobile Screenshot 4 (Dark Theme)
+![Mobile View 4](./screenshots/8.jpg)
+*Mobile responsive design - View 4 (Dark theme)*
+
+#### Mobile Screenshot 5 (Dark Theme)
+![Mobile View 5](./screenshots/9.jpg)
+*Mobile responsive design - View 5 (Dark theme)*
+
+#### Mobile Screenshot 6 (Dark Theme)
+![Mobile View 6](./screenshots/10.jpg)
+*Mobile responsive design - View 6 (Dark theme)*
+
+#### Mobile Screenshot 7 (Dark Theme)
+![Mobile View 7](./screenshots/11.jpg)
+*Mobile responsive design - View 7 (Dark theme)*
+
+#### Mobile Screenshot 8 (Dark Theme)
+![Mobile View 8](./screenshots/12.jpg)
+*Mobile responsive design - View 8 (Dark theme)*
+
+#### Mobile Screenshot 9 (Dark Theme)
+![Mobile View 9](./screenshots/13.jpg)
+*Mobile responsive design - View 9 (Dark theme)*
+
+#### Mobile Screenshot 10 (Dark Theme)
+![Mobile View 10](./screenshots/14.jpg)
+*Mobile responsive design - View 10 (Dark theme)*
+
+#### Mobile Screenshot 11 (Dark Theme)
+![Mobile View 11](./screenshots/15.jpg)
+*Mobile responsive design - View 11 (Dark theme)*
+
+> **Screenshots Overview**: 
+> - **Desktop Views**: 4 dark theme screenshots (1.png - 4.png) + 1 light theme (1_light.png)
+> - **Mobile Views**: 10 dark theme screenshots (5.jpg, 6.jpg - 15.jpg) + 1 light theme (5_light.jpg)
+> - **Theme Comparison**: Both light and dark themes showcased on desktop and mobile
+> - **Comprehensive Coverage**: Complete responsive design demonstration across devices and themes
 
 ## 🎯 Assignment Overview
 
