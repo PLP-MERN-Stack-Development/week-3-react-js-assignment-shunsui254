@@ -15,11 +15,11 @@ A modern, responsive React application showcasing advanced component architectur
 ### 💻 Desktop/Laptop Views
 
 #### 🏠 Home Page (Dark Theme)
-![Task Manager Hero - Desktop Dark](./screenshots/1.png)
+![Task Manager- Desktop Dark](./screenshots/1.png)
 *Welcome page with animated hero section and feature cards on desktop - Dark theme*
 
 #### 🏠 Home Page (Light Theme)
-![Task Manager Hero - Desktop Light](./screenshots/1_light.png)
+![Task Manager - Desktop Light](./screenshots/1_light.png)
 *Welcome page with animated hero section and feature cards on desktop - Light theme*
 
 #### 📋 Task Management Interface (Dark Theme)
@@ -29,10 +29,6 @@ A modern, responsive React application showcasing advanced component architectur
 #### 🌐 API Data Display (Dark Theme)
 ![API Data Display - Desktop](./screenshots/3.png)
 *Real-time posts from JSONPlaceholder API with search and pagination on desktop - Dark theme*
-
-#### 🌙 Dark Mode Theme
-![Dark Mode - Desktop](./screenshots/4.png)
-*Application in dark mode showing theme consistency on desktop*
 
 ### 📱 Mobile/Phone Views
 
@@ -52,71 +48,29 @@ A modern, responsive React application showcasing advanced component architectur
 
 <div style="text-align: center;">
 <h5>🌙 Dark Theme - View 2</h5>
-<img src="./screenshots/6.jpg" alt="Mobile View 2" style="width: 100%; max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<p><em>Task management interface</em></p>
-</div>
-
-<div style="text-align: center;">
-<h5>🌙 Dark Theme - View 3</h5>
-<img src="./screenshots/7.jpg" alt="Mobile View 3" style="width: 100%; max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<p><em>API data display</em></p>
-</div>
-
-<div style="text-align: center;">
-<h5>🌙 Dark Theme - View 4</h5>
-<img src="./screenshots/8.jpg" alt="Mobile View 4" style="width: 100%; max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src="./screenshots/8.jpg" alt="Mobile View 3" style="width: 100%; max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 <p><em>Navigation menu</em></p>
 </div>
 
 <div style="text-align: center;">
-<h5>🌙 Dark Theme - View 5</h5>
+<h5>🌙 Dark Theme - View 3</h5>
 <img src="./screenshots/9.jpg" alt="Mobile View 5" style="width: 100%; max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 <p><em>Task filtering</em></p>
 </div>
 
 <div style="text-align: center;">
-<h5>🌙 Dark Theme - View 6</h5>
-<img src="./screenshots/10.jpg" alt="Mobile View 6" style="width: 100%; max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<p><em>Search functionality</em></p>
-</div>
-
-<div style="text-align: center;">
-<h5>🌙 Dark Theme - View 7</h5>
+<h5>🌙 Dark Theme - View 4</h5>
 <img src="./screenshots/11.jpg" alt="Mobile View 7" style="width: 100%; max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 <p><em>Pagination controls</em></p>
-</div>
-
-<div style="text-align: center;">
-<h5>🌙 Dark Theme - View 8</h5>
-<img src="./screenshots/12.jpg" alt="Mobile View 8" style="width: 100%; max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<p><em>About section</em></p>
-</div>
-
-<div style="text-align: center;">
-<h5>🌙 Dark Theme - View 9</h5>
-<img src="./screenshots/13.jpg" alt="Mobile View 9" style="width: 100%; max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<p><em>Footer section</em></p>
-</div>
-
-<div style="text-align: center;">
-<h5>🌙 Dark Theme - View 10</h5>
-<img src="./screenshots/14.jpg" alt="Mobile View 10" style="width: 100%; max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<p><em>Component interactions</em></p>
-</div>
-
-<div style="text-align: center;">
-<h5>🌙 Dark Theme - View 11</h5>
-<img src="./screenshots/15.jpg" alt="Mobile View 11" style="width: 100%; max-width: 200px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-<p><em>Complete mobile experience</em></p>
 </div>
 
 </div>
 
 > **Screenshots Overview**: 
-> - **Desktop Views**: 4 dark theme screenshots (1.png - 4.png) + 1 light theme (1_light.png)
-> - **Mobile Views**: 10 dark theme screenshots (5.jpg, 6.jpg - 15.jpg) + 1 light theme (5_light.jpg)
+> - **Desktop Views**: 3 core screenshots (1.png - 3.png dark theme) + 1 light theme (1_light.png)
+> - **Mobile Views**: 5 key mobile screenshots (5_light.jpg, 5.jpg, 8.jpg, 9.jpg, 11.jpg) showing essential functionality
 > - **Theme Comparison**: Both light and dark themes showcased on desktop and mobile
-> - **Comprehensive Coverage**: Complete responsive design demonstration across devices and themes
+> - **Streamlined Coverage**: Focused demonstration of key features across devices and themes
 
 ## 🎯 Assignment Overview
 
